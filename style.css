@@ -1,0 +1,13 @@
+nav .menu{
+    display: block;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 40%;
+    margin-top: 10%;
+    font-size: 100%;
+    
+    
+}
+nav .menu a{
+    text-decoration: none;
+}
