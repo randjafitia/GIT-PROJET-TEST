@@ -1,0 +1,183 @@
+body
+{
+    padding: 40px;
+    margin: 0px;
+}
+header
+{
+    
+    justify-content: space-between;
+     
+}
+.logo img
+{
+    width: 70px;
+    height: 70px;
+    margin-top: -25px;
+}
+ul
+{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+li a
+{
+    text-decoration: none;
+}
+.text
+{
+    background-image: url("images/animaux.jpeg");
+    width: 780px;
+    height: 500px;
+    margin-left: 300px;
+    margin-top: 25px;
+}
+.contenu p
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contenu h1
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.listes
+{
+  background-image: url( "images/Gemini_Generated_Image_cp35ydcp35ydcp35.png");
+  height: 500px;
+  width: 600px;
+  
+}
+.descrit
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 50px;
+    text-align: center;
+}
+.voir
+{
+    background-image: url("images/téléchargement\ \(2\).jpeg");
+   height: 500px;
+   width: 600px;
+   display: flex;
+   margin-left: 700px;
+   margin-top: -165px;
+}
+
+.Cat
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    margin-left: 25px;
+    margin-top: -50px;
+    color: black;
+
+}
+.stylo
+{
+    background-image: url("images/Fotografia\ de\ estúdio\ de\ um\ cão\ border\ collie\ bonito\ _\ Foto\ Premium.jpeg");
+    margin-top: 50px;
+    width: 600px;
+    height: 350px;
+    margin-left: 350px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: aliceblue;
+}
+.phrases
+{
+    margin-top: 100px;
+    margin-left: 210px;
+    color: aliceblue;
+}
+.adoption
+{
+    border-radius: 5px;
+    background-color: rgb(17, 19, 18);
+    color: blanchedalmond ;
+    margin-left: 165px;
+}
+.croq
+{
+    border-radius: 5px;
+    background-color: rgb(17, 19, 18);
+    color: blanchedalmond ;
+    margin-top: -10px;
+    margin-left: 200px;
+}
+.phone
+{
+    background-image: url(images/téléchargement\ \(6\).jpeg);
+    width: 750px;
+    height: 500px;
+    margin-top: 25px;
+    margin-left: 250px;
+    text-align: center;
+}
+.footer-chien {
+    background-color: #1a1a1a; /* Noir très foncé */
+    color: #ffffff;
+    padding: 60px 0 20px 0;
+    font-family: 'Cambria', serif;
+}
+
+.footer-container {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; /* Permet de passer à la ligne sur mobile */
+    padding: 0 20px;
+}
+
+.footer-col {
+    flex: 1;
+    min-width: 250px;
+    margin-bottom: 30px;
+}
+
+.footer-col h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #D4AF37; /* Couleur Or pour le côté Rockstar */
+}
+
+.footer-col h4 {
+    font-size: 18px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #D4AF37;
+    display: inline-block;
+}
+
+.footer-col ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-col ul li {
+    margin-bottom: 10px;
+}
+
+.footer-col ul li a {
+    color: #bbb;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.footer-col ul li a:hover {
+    color: #fff;
+    padding-left: 5px;
+}
+.footer-col p
+{
+    margin-left: 5px;
+}
+
+.footer-bottom {
+    text-align: center;
+    border-top: 1px solid #333;
+    margin-top: 40px;
+    padding-top: 20px;
+    font-size: 14px;
+    color: #777;
+}
