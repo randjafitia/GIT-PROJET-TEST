@@ -1,20 +1,4 @@
-<<<<<<< HEAD
-nav .menu{
-    display: block;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin-left: 40%;
-    margin-top: 10%;
-    font-size: 100%;
-    margin-bottom: 10%;
-    
-    
-}
-nav .menu a{
-    text-decoration: none;
-}
-=======
-<<<<<<< HEAD
+
 html, body
 {
     background-color: white;
@@ -58,5 +42,3 @@ nav .menu{
 nav .menu a{
     text-decoration: none;
 }
->>>>>>> 927de4270ef72e919752f1245870202ec61d8212
->>>>>>> 3e73144 (Premier commit du projet Dark.py)
